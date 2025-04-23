@@ -1,3 +1,5 @@
+# Disclaimer: Please read <a>README_SOLUTION.md</a>
+
 # ReliaQuest's Entry-Level Java Challenge
 
 Please keep the following in mind while working on this challenge:
