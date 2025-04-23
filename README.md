@@ -1,4 +1,4 @@
-# Disclaimer: Please read <a href="README_SOLUTION.md">README_SOLUTION.md</a>
+** Disclaimer: Please read <a href="README_SOLUTION.md">README_SOLUTION.md</a> for a READ_ME for the solution.**
 
 # ReliaQuest's Entry-Level Java Challenge
 
